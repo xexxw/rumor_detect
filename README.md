@@ -62,8 +62,6 @@ https://github.com/thunlp/Chinese_Rumor_Dataset
   * 双向LSTM，参数32；
   * 全连接层，参数1。
 
-* 训练模型；
-* 模型评价：训练集accuracy=88.77%，测试集accuracy=87.87%。
 
 ## 模型优化——使用GRU
 
@@ -73,7 +71,5 @@ https://github.com/thunlp/Chinese_Rumor_Dataset
   * 全连接层，参数6；
   * 全连接层，参数1。
 
-* 训练模型；
-* 模型评价：训练集accuracy=93.40%，测试集accuracy=87.87%。
 
  
